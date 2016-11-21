@@ -1,2 +1,0 @@
-# CourseraGettingAndCleaningData
-Course Project Files
